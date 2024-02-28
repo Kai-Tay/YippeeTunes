@@ -1,0 +1,8 @@
+spotipy
+scikit-learn
+beautifulsoup4
+selenium
+streamlit
+seleniumbase
+webdriver-manager
+boto3
