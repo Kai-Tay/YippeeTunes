@@ -1,0 +1,2 @@
+﻿,id,songName,albumName,albumID,artist,genre,explicit,releaseDate,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumental,liveness,valence,tempo,duration_ms,time_signature
+0,52eIcoLUM25zbQupAZYoFh,redrum,american dream,2RRYaYHY7fIIdvFlvgb5vq,21 Savage,"['atl hip hop', 'hip hop', 'rap']",True,2024-01-12,0.624,0.74,2,-8.445,1,0.0481,0.00529,0.000224,0.5,0.246,172.089,270698,4
