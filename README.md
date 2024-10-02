@@ -5,7 +5,8 @@ DAP is a project-oriented learning programme where mentees can learn through sel
 <ul>
   <li>Pandas</li>
   <li>Selenium</li>
-  <li>Pandas</li>
+  <li>Scikit-Learn</li>
+  <li>matplotlib</li>
 </ul>
 
 ## Final Model
