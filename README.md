@@ -11,7 +11,7 @@ DAP is a project-oriented learning programme where mentees can learn through sel
 ## Final Model
 Utilises Web Scrapping of Genres, Genre Clustering and Cosine Similarity to achieve model with our highest performance yet.
 ![Screenshot 2024-10-03 at 1 31 03 AM](https://github.com/user-attachments/assets/23deeae1-fead-46b6-96d6-7c4ff097f785)
-Results obtain from running a playlist by the artist LANY.
+Results obtain from running a playlist by the artist LANY - live from The Forum
 
 ## Demo
 Visit the demo here: [Demo](https://maibro.onrender.com/)<br>
